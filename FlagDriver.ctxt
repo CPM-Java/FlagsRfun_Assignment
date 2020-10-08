@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ driver()
+comment0.text=\n\ driver\ Method\n\ Surveys\ the\ user\ for\ preferences\ regarding\ the\ instance\ flag\ type\ and\ size\n\ DO\ NOT\ MODIFY\n
+comment1.params=type1\ size1\ type2\ size2
+comment1.target=void\ makeFlags(int,\ int,\ int,\ int)
+numComments=2

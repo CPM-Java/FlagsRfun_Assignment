@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=flagA\ flagB\ messageStr
+comment0.target=java.lang.String\ flags2Str(Flag,\ Flag,\ java.lang.String)
+comment0.text=\n\ Displays\ two\ flags\ with\ a\ message\ between\ them\n\ \n\ @param\ \ flagA\ \ \ first\ square\ flag\n\ @param\ \ flagB\ \ \ second\ square\ flag\n\ @param\ \ messageStr\ \ \ a\ String\ message\ displayed\ between\ the\ flags\n\ @return\ \ \ \ \ a\ String\ representation\ of\ two\ Flags\ \n
+numComments=1
